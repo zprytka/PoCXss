@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/harshbanshpal/testing/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/zprytka/PoCXss/main/xss.json",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/harshbanshpal/testing/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/zprytka/PoCXss/main/xss.json",
             "name": "Foo"
         }
     ]
