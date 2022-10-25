@@ -2,7 +2,7 @@
     "url": "https://raw.githubusercontent.com/zprytka/PoCXss/main/xss.json",
     "urls": [
         {
-            "url": "<script>alert('xss')</script>",
+            "url": "<script>alert('test')</script>",
             "name": "Foo"
         }
     ]
