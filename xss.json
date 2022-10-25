@@ -1,9 +1,3 @@
 {
-    "url": "<script>alert('xss')</script>",
-    "urls": [
-        {
-            "url": "<script>alert('xss')</script>",
-            "name": "Foo"
-        }
-    ]
+    "url": "<script>alert('xss')</script>"
 }
